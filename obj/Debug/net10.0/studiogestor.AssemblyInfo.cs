@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("studiogestor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+663605dd4a33f2a5add469c315aa6c640ab6762c")]
 [assembly: System.Reflection.AssemblyProductAttribute("studiogestor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("studiogestor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
