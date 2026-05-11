@@ -14,7 +14,9 @@ namespace StudioGestor.Domain.Entities
 
         public string NomeServico { get; private set; } = null!;
         public decimal Valor { get; private set; } = 0;
-        public int? DuracaoEmMinutos { get; private set; }
+        public int DuracaoEmMinutos { get; private set; } = 0;
+
+        // Relacionamentos
 
         public Agendamento Agendamento { get; private set; } = null!;
         public Servico Servico { get; private set; } = null!;
