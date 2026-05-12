@@ -1,8 +1,8 @@
-Build results
+# Build results
 bin/
 obj/
 
-Visual Studio / .NET
+# Visual Studio / .NET
 .vs/
 *.user
 *.suo
