@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudioGestor.Application\StudioGestor.Application.csproj" />
+    <ProjectReference Include="..\StudioGestor.Domain\StudioGestor.Domain.csproj" />
+    <ProjectReference Include="..\StudioGestor.Data\StudioGestor.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
